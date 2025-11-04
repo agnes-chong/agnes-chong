@@ -13,7 +13,7 @@
 
 ---
 
-### 💻 What I Do
+### 💻 About Me
 
 - 🧠 Build and test **cybersecurity tools** – keyloggers, network sniffers, and AI-based malware analyzers  
 - 🧩 Compete in **CTF challenges** (reverse engineering, forensics, and web exploitation)  
@@ -54,15 +54,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/agnes-chong"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/chong-pei-lee-b2a09a2b1"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chongpeilee.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-lightgrey?style=for-the-badge" /></a>
-</p>
-
----
 
 ### 🧸 Fun Zone
 
@@ -78,7 +69,3 @@
   <img src="https://komarev.com/ghpvc/?username=agnes-chong&label=Profile+Views&color=blueviolet&style=flat-square" />
 </p>
 
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="250" alt="loading dots" />
-</p>
