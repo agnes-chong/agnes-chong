@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="coding animation" />
+  <img src="https://64.media.tumblr.com/abe6c173d09aa84403dbb30837224a7f/75ff4871e5134e57-24/s1280x1920/6088e83835babfd0b04031544acbeef670c63604.gifv" width="600" alt="coding animation" />
 </div>
 
 ---
