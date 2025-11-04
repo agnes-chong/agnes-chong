@@ -15,17 +15,18 @@
 
 ### 💻 About Me
 
-- 🧠 Build and test **cybersecurity tools** – keyloggers, network sniffers, and AI-based malware analyzers  
-- 🧩 Compete in **CTF challenges** (reverse engineering, forensics, and web exploitation)  
-- 🔐 Research **malware detection**, **AI-driven defense**, and **ethical red teaming**  
-- ⚔️ Experiment with **threat emulation**, **post-exploitation**, and **forensic analysis**
+- 🕵️‍♀️ I’m currently working on developing **Red Team utilities**.  
+- 🧩 Currently exploring **Web Exploitation**, **Forensics**, **Cryptography** and **Reverse Engineering** for CTFs.  
+- 🧠 Learning about **Offensive Security**, **Threat Simulation**, and **AI/LLM-driven Security Automation**.  
+- ✍️ I also share writeups, tools, and learning notes on my cybersecurity blog *(coming soon)*.  
+- 🎓 IT InfoSec student passionate about **Cybersecurity, VAPT, AI, and System Defense** — blending creativity with logic.  
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,java,cs,html,css,js,react,tailwind,mysql,sqlite,opencv,tensorflow,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,streamlit,jupyternotebook,java,c++,c#,html,css,js,react,tailwind,burpsuite,mysql,postman,ciscopackettracer,tensorflow,git,github" />
 </p>
 
 ---
