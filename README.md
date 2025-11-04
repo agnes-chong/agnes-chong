@@ -1,7 +1,7 @@
 <!-- Animated Intro -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
-  <h1>Hey World! I'm <span style="color:#00BFFF;">Agnes</span> 👩‍💻</h1>
+  <h1>Hello World! I'm <span style="color:#00BFFF;">Agnes</span> 👩‍💻</h1>
   <h3>🎓 InfoSec Student | 🧠 Cybersecurity & CTF Enthusiast | 💥 Red Team Explorer</h3>
 </div>
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 💻 About Me
+### ⚡ About Me
 
 - 🕵️‍♀️ I’m currently working on developing **Red Team utilities**.  
 - 🧩 Currently exploring **Web Exploitation**, **Forensics**, **Cryptography** and **Reverse Engineering** for CTFs.  
