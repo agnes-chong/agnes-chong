@@ -1,0 +1,85 @@
+<!-- Animated Intro -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
+  <h1>Hey there, I'm <span style="color:#00BFFF;">Agnes Chong</span> 👩‍💻</h1>
+  <h3>🎓 IT Student | 🧠 Cybersecurity & CTF Enthusiast | 💥 Red Team Explorer</h3>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="coding animation" />
+</div>
+
+---
+
+### 💻 What I Do
+
+- 🧠 Build and test **cybersecurity tools** – keyloggers, network sniffers, and AI-based malware analyzers  
+- 🧩 Compete in **CTF challenges** (reverse engineering, forensics, and web exploitation)  
+- 🔐 Research **malware detection**, **AI-driven defense**, and **ethical red teaming**  
+- ⚔️ Experiment with **threat emulation**, **post-exploitation**, and **forensic analysis**
+
+---
+
+### 🚀 Featured Projects
+
+| 🔧 Project | 📝 Description | 💡 Tech Stack |
+|------------|----------------|----------------|
+| [**PassGuardian**](https://github.com/agnes-chong/PassGuardian-Intelligent-Password-Strength-Breach-Analyzer) | Password Strength & Breach Analyzer *(Python + zxcvbn + HIBP API)* | Python |
+| **AI Malware Detection System** | Flask + TensorFlow-based file classifier | Flask, TensorFlow |
+| **Lost & Found Recognizer (YOLOv8)** | AI Object Detection for campus systems | Python, YOLOv8, OpenCV |
+| **Badminton Club Management System** | ASP.NET Web App with role-based control | C#, ASP.NET |
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,java,cs,html,css,js,react,tailwind,mysql,sqlite,opencv,tensorflow,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=agnes-chong&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=agnes-chong&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnes-chong&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/agnes-chong"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-%23B2161C.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="mailto:agneschong@example.com"><img src="https://img.shields.io/badge/Email-Contact-lightgrey?style=for-the-badge" /></a>
+</p>
+
+---
+
+### 🧸 Fun Zone
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="hacker cat" />
+  <br>
+  <b>“The best way to defend is to understand how to attack — ethically.” ⚔️</b>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=agnes-chong&label=Profile+Views&color=blueviolet&style=flat-square" />
+</p>
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="250" alt="loading dots" />
+</p>
