@@ -59,8 +59,7 @@
 <p align="center">
   <a href="https://github.com/agnes-chong"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chong-pei-lee-b2a09a2b1"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-%23B2161C.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="mailto:agneschong@example.com"><img src="https://img.shields.io/badge/Email-Contact-lightgrey?style=for-the-badge" /></a>
+  <a href="mailto:chongpeilee.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-lightgrey?style=for-the-badge" /></a>
 </p>
 
 ---
