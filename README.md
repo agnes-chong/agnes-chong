@@ -19,7 +19,7 @@
 - 🧩 Currently exploring **Web Exploitation**, **Forensics**, **Cryptography** and **Reverse Engineering** for CTFs.  
 - 🧠 Learning about **Offensive Security**, **Threat Simulation**, and **AI-driven Security Automation**.  
 - ✍️ I also share writeups, tools, and learning notes on my cybersecurity blog *(coming soon)*.  
-- 🎓 IT InfoSec student passionate about **Cybersecurity, VAPT, AI, and System Defense** — blending creativity with logic.  
+- 🎓 IT InfoSec student passionate about **Cybersecurity, VAPT, AI, and Digital Forensics** — blending creativity with logic.  
 
 ---
 
