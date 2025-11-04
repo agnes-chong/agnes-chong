@@ -22,46 +22,11 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| 🔧 Project | 📝 Description | 💡 Tech Stack |
-|------------|----------------|----------------|
-| [**PassGuardian**](https://github.com/agnes-chong/PassGuardian-Intelligent-Password-Strength-Breach-Analyzer) | Password Strength & Breach Analyzer *(Python + zxcvbn + HIBP API)* | Python |
-| **AI Malware Detection System** | Flask + TensorFlow-based file classifier | Flask, TensorFlow |
-| **Lost & Found Recognizer (YOLOv8)** | AI Object Detection for campus systems | Python, YOLOv8, OpenCV |
-| **Badminton Club Management System** | ASP.NET Web App with role-based control | C#, ASP.NET |
-
----
-
 ### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,java,cs,html,css,js,react,tailwind,mysql,sqlite,opencv,tensorflow,git,github" />
 </p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=agnes-chong&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=agnes-chong&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnes-chong&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-
-### 🧸 Fun Zone
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="hacker cat" />
-  <br>
-  <b>“The best way to defend is to understand how to attack — ethically.” ⚔️</b>
-</div>
 
 ---
 
