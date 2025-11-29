@@ -15,11 +15,10 @@
 
 ### ⚡ About Me
 
-- 🕵️‍♀️ I’m currently working on developing **Red Team utilities**.  
-- 🧩 Currently exploring **Web Exploitation**, **Forensics**, **Cryptography** and **Reverse Engineering** for CTFs.  
-- 🧠 Learning about **Offensive Security**, **Threat Simulation** and **AI-driven Security Automation**.  
-- ✍️ I also share writeups, tools, and learning notes on my cybersecurity blog *(coming soon)*.  
-- 🎓 IT InfoSec student passionate about **Cybersecurity, VAPT, AI and Digital Forensics** — blending creativity with logic.  
+- 🕵️‍♀️ I’m a final year InfoSec degree student @TARUMT.  
+- 🧩 Currently exploring **Web Exploitation**, **OSINT**, **Forensics**, **Cryptography** and **Reverse Engineering** for CTFs.  
+- 🧠 Learning about **Offensive Security**, **Threat Simulation** and **AI-driven Security Automation**.   
+- 🎓 Passionate about **Cybersecurity, VAPT, AI and Digital Forensics** — blending creativity with logic.  
 
 ---
 
